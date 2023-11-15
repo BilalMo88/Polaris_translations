@@ -1,0 +1,824 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:43
+msgid "1 Star"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:44
+msgid "2 Stars"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:45
+msgid "3 Stars"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:46
+msgid "4 Stars"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:47
+msgid "5 Stars"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_reviews_sources.vue:40
+msgid ""
+"A link will be added at the bottom of the widget with information about the "
+"collection process and policies"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_medals.vue:10
+#: src/core/routes/widgets/review-widget/_medals.vue:11
+#: src/core/routes/widgets/review-widget/_medals.vue:9
+msgid "about Judge.me Medals.."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:14
+msgid "Add a border around the widget"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:5
+msgid ""
+"Add personalized questions to your Review Widget and emails such as product "
+"usage, attributes and surveys."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:42
+msgid "Align"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:5
+msgid "Allow reviewers to upload photos"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:7
+msgid "Allow reviewers to upload videos"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:55
+#: src/core/routes/widgets/review-widget/_display_properties.vue:64
+msgid "Anonymous"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:12
+msgid "Anonymous dropdown option"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:13
+msgid "Author name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_medals.vue:7
+#: src/core/routes/widgets/review-widget/_medals.vue:8
+#: src/core/routes/widgets/review-widget/_medals.vue:9
+#: src/core/routes/widgets/review-widget/_reviews_sources.vue:19
+msgid "Available for stores that have met the criteria."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:31
+msgid "Average rating"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:47
+#: src/core/routes/widgets/review-widget/text/main.vue:47
+msgid "Back"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/main.vue:50
+msgid "Body"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:46
+msgid "Body field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:31
+msgid "Border Style"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:75
+#: src/core/routes/widgets/review-widget/text/_heading.vue:35
+msgid "Cancel button label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:41
+msgid "Cards"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:21
+msgid ""
+"Change the buyer badge and product prefix text and customize pagination, "
+"store and reviewer details."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:20
+msgid ""
+"Change the widget title text and button labels, and customize the average "
+"rating and search bar display."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:69
+msgid ""
+"Click <strong>Add section</strong> at the bottom of the list and select "
+"<strong>Review Widget</strong>. We recommend placing it at the bottom of "
+"your page, before the Footer."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:58
+#: src/core/routes/widgets/review-widget/main.vue:70
+msgid "Click <strong>Save</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:68
+msgid ""
+"Click on the dropdown at the top and select <strong>Products > Default "
+"product</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:65
+msgid ""
+"Click the button below to add the widget automatically to your theme, then "
+"click <strong>Save</strong>. You can adjust the position later."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:2
+msgid "Colors"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:18
+#: src/core/routes/widgets/review-widget/_pagination.vue:21
+#: src/core/routes/widgets/review-widget/_pagination.vue:22
+msgid "Configure the pagination of reviews and questions."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:62
+msgid "Custom form field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:64
+msgid "Custom form placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:3
+msgid "Custom forms"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:8
+msgid "Custom forms display"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:55
+msgid "Custom star color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:8
+msgid "Customize"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:22
+msgid "Customize the text in the Review Widget form."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:40
+msgid "Default"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:22
+msgid "Default number of stars for the review"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:16
+msgid "Default sorting method"
+msgstr ""
+
+#: src/core/routes/widgets/common/_install.vue:5
+msgid "Demo for"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:28
+msgid "Display questions and answers on the same line."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:33
+msgid "Display questions and answers on top of each other."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:49
+msgid "Divide reviews across multiple pages"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:17
+msgid "Email field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:19
+msgid "Email field label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:21
+msgid "Email field label (verified)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:23
+msgid "Email field placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:25
+msgid "Email field validation"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:90
+msgid "Empty field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:52
+msgid "Enable ↗️"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:8
+msgid "Enable keyword search"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_medals.vue:6
+msgid "Enable Medals"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:88
+msgid "Error messages"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:15
+msgid "Example name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:96
+msgid "File size"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/main.vue:51
+msgid "Form"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:2
+msgid "Formatting"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:10
+#: src/core/routes/widgets/review-widget/_color.vue:9
+msgid "General Settings"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:55
+#: src/core/routes/widgets/review-widget/main.vue:67
+msgid "Go to Theme Editor in Online Store > Themes > Customize."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:4
+msgid "Grid title"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:20
+msgid "Header"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:15
+msgid "Header (no reviews)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:13
+msgid "Header (with reviews)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/main.vue:49
+msgid "Heading"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:55
+msgid "Highest rating"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:54
+msgid "Highest Rating"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:26
+msgid "Horizontal"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:53
+msgid ""
+"If you haven't enabled the app embed yet, click the button below to enable "
+"it automatically, then click <strong>Save</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/common/_install.vue:2
+msgid "Install"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:63
+msgid "Install ↗️"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_medals.vue:2
+msgid "Judge.me Medals"
+msgstr ""
+
+#: src/core/routes/widgets/common/_install.vue:58
+msgid "Learn how to add the %{widget_name} to your theme."
+msgstr "Learn how to add the %{widget_name} to your theme."
+
+#: src/core/routes/widgets/common/_install.vue:10
+#: src/core/routes/widgets/review-widget/_install_1_0.vue:7
+#: src/core/routes/widgets/review-widget/_medals.vue:10
+#: src/core/routes/widgets/review-widget/_medals.vue:8
+#: src/core/routes/widgets/review-widget/_medals.vue:9
+msgid "Learn more"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:52
+msgid "Limit the number of lines shown"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:57
+msgid "Lowest rating"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:55
+msgid "Lowest Rating"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:7
+msgid "Manage custom forms"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:14
+#: src/core/routes/widgets/review-widget/text/_heading.vue:2
+msgid "Media grid"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:94
+msgid "Media items"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:3
+msgid "Media upload"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:65
+msgid "Most helpful"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:59
+msgid "Most Helpful"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:53
+msgid "Most recent"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:53
+msgid "Most Recent"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:17
+msgid "Mute videos by default"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:2
+msgid "Name field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:4
+msgid "Name field label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:6
+msgid "Name field label (verified)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:8
+msgid "Name field placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:56
+msgid "On the left sidebar navigate to <strong>App Embeds</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:59
+msgid "Only pictures"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:56
+msgid "Only Pictures"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:60
+#: src/core/routes/widgets/review-widget/main.vue:73
+msgid "or install manually"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:136
+msgid "Pagination color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:2
+msgid "Photos and Videos"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:15
+msgid "Pick a custom secondary color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:55
+msgid "Picture/video field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:57
+msgid "Picture/video upload label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:61
+msgid "Pictures first"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:57
+msgid "Pictures First"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:17
+msgid "Prefix text"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:9
+msgid "Primary color (Star color)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:79
+msgid "Question submitted confirmation message"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:30
+msgid "Rating field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:32
+msgid "Rating field label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:49
+msgid "Rating filter"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:37
+msgid "Refresh button label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:11
+msgid "Reply author"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:4
+msgid "Reset to default"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:109
+msgid "Review filter color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:13
+msgid "Review Length"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:27
+msgid "Review list"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:4
+msgid "Review rating preset value"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_reviews_sources.vue:2
+msgid "Review source"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:77
+msgid "Review submitted confirmation message"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:48
+msgid "Review text field label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:50
+msgid "Review text field placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:10
+msgid "Review visibility dropdown"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:46
+#: src/core/routes/widgets/review-widget/text/main.vue:45
+msgid "Review Widget"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:14
+msgid "Reviewer name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:48
+msgid "Round corners"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:2
+msgid "Search and pagination"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:42
+msgid "Search bar"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:44
+msgid "Search bar placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:57
+msgid "Search for <strong>Judge.me Reviews</strong> and turn on the toggle."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:37
+msgid "Secondary color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:51
+msgid "See all reviews"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:6
+msgid "See more text"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:9
+msgid "Shop and reviewer details"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:54
+#: src/core/routes/widgets/review-widget/_display_properties.vue:63
+msgid "Shorten full name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:53
+#: src/core/routes/widgets/review-widget/_display_properties.vue:62
+msgid "Shorten last name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_reviews_sources.vue:4
+msgid "Show “Collected by Judge.me” beneath the widget header"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:52
+#: src/core/routes/widgets/review-widget/_display_properties.vue:61
+msgid "Show full name"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_medals.vue:5
+msgid "Show product medals"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_photos_and_videos.vue:15
+msgid "Show recent photos and videos in a grid"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_reviews_sources.vue:10
+msgid "Show review collection policy information"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:21
+msgid "Show review date"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:4
+msgid "Show review search bar"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:5
+msgid "Show review timestamps"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:9
+msgid "Show reviewer country flag"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:7
+msgid "Show reviewer location"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:11
+msgid "Show reviewer profile photo if available"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:51
+msgid "Show the full review"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:13
+msgid "Show the widget rating filter"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:32
+msgid ""
+"Show up to 10 review keywords. Keywords will be added to product pages for "
+"products with at least 10 verified reviews."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:43
+msgid "Slider"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:23
+#: src/core/routes/widgets/review-widget/_display_properties.vue:24
+#: src/core/routes/widgets/review-widget/_display_properties.vue:25
+#: src/core/routes/widgets/review-widget/_display_properties.vue:26
+#: src/core/routes/widgets/review-widget/_display_properties.vue:27
+msgid "Social share option"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:20
+#: src/core/routes/widgets/review-widget/text/_heading.vue:22
+msgid "Source of review"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:47
+msgid "Square corners"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:51
+msgid "Step 1: Enable app embed"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/main.vue:62
+msgid "Step 2: Add the widget block"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_display_properties.vue:2
+msgid "Store and reviewer details"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:69
+msgid "Submit button and success message"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:71
+msgid "Submit button label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:73
+msgid "Submit button label (verified)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:83
+msgid "Success message (Autopublish off)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:81
+msgid "Success message (Autopublish on)"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:2
+#: src/core/routes/widgets/review-widget/text/main.vue:46
+msgid "Text"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:11
+msgid "Text header"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:2
+msgid "Theme"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:7
+#: src/core/routes/widgets/review-widget/_theme.vue:8
+msgid ""
+"This theme will also show for the All Reviews Page and Floating Reviews Tab."
+msgstr ""
+"This theme will also show for the All Reviews Page and Floating Reviews Tab."
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:37
+msgid "Title field"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:39
+msgid "Title field label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:41
+msgid "Title field placeholder"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:50
+msgid "Use \"Load more\" button to show more reviews"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:44
+#: src/core/routes/widgets/review-widget/_color.vue:49
+#: src/core/routes/widgets/review-widget/_color.vue:50
+msgid "Used for number pagination or “Load more” button."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:19
+#: src/core/routes/widgets/review-widget/_color.vue:20
+#: src/core/routes/widgets/review-widget/_color.vue:21
+#: src/core/routes/widgets/review-widget/_color.vue:22
+msgid ""
+"Used for review reply backgrounds, dividers and other secondary elements. We "
+"recommend picking a color lighter than your primary color."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:36
+#: src/core/routes/widgets/review-widget/_color.vue:40
+#: src/core/routes/widgets/review-widget/_color.vue:41
+msgid "Used for the Rating Filter chart."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:8
+#: src/core/routes/widgets/review-widget/_color.vue:9
+msgid ""
+"Used for the star color, buttons, links and link buttons on all widgets and "
+"emails. You can change this in"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:28
+#: src/core/routes/widgets/review-widget/_color.vue:31
+#: src/core/routes/widgets/review-widget/_color.vue:32
+msgid "Used only for star ratings in the Review Widget."
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:4
+msgid "Verified badge"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_body.vue:2
+msgid "Verified buyer badge"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:176
+msgid "Verified buyer badge background color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_color.vue:163
+msgid "Verified buyer badge text color"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_custom_forms.vue:31
+msgid "Vertical"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:63
+msgid "Videos first"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_pagination.vue:58
+msgid "Videos First"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:21
+msgid "Widget Body"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_text.vue:22
+msgid "Widget Form"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_theme.vue:9
+msgid "Widget theme"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:29
+msgid "Widget title"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_heading.vue:33
+msgid "Write button label"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/_formatting.vue:17
+msgid "You can click 'Read more' to see the rest of the review"
+msgstr ""
+
+#: src/core/routes/widgets/common/_install.vue:34
+#: src/core/routes/widgets/common/_install.vue:35
+msgid "Your store needs at least 20 verified reviews"
+msgstr ""
+
+#: src/core/routes/widgets/review-widget/text/_form.vue:92
+msgid "Youtube URL field"
+msgstr ""
