@@ -9,16 +9,100 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: src/core/routes/email_templates/sections/_custom_templates.vue:28
+#: src/core/routes/email_templates/sections/_custom_templates.vue:31
+#: src/core/routes/requests/main.vue:139
+msgid " "
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:4
+#: src/core/routes/widgets/reviews-carousel/_color.vue:5
+msgid "‘Verified by Judge.me’ badge"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:15
+msgid "“Verified by Shop” badge color"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:10
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:9
+msgid "“Verified” text after widget"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:41
+msgid "(Houston, Texas, United States)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:42
+msgid "(Houston, Texas)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:38
+msgid "(Houston, TX, US)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:43
+msgid "(Houston, TX)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:40
+msgid "(Houston, United States)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:39
+msgid "(Houston, US)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:45
+msgid "(Houston)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:44
+msgid "(Texas, United States)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:46
+msgid "(Texas)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:49
+msgid "(TX)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:47
+msgid "(United States)"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:48
+msgid "(US)"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:43
 msgid "1 Star"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:35
+msgid "1 to 5 stars"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_formatting.vue:44
 msgid "2 Stars"
 msgstr ""
 
+#: src/core/routes/home/_shop_statistics.vue:126
+msgid "24 hours"
+msgstr ""
+
+#: src/core/routes/widgets/medals/_sample_preview.vue:6
+msgid "24 reviews"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:45
 msgid "3 Stars"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:124
+msgid "30 days"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_formatting.vue:46
@@ -29,10 +113,22 @@ msgstr ""
 msgid "5 Stars"
 msgstr ""
 
+#: src/core/routes/home/_shop_statistics.vue:125
+msgid "7 days"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_integrations.vue:17
+msgid "a link between both has to be made using @id."
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_reviews_sources.vue:40
 msgid ""
 "A link will be added at the bottom of the widget with information about the "
 "collection process and policies"
+msgstr ""
+
+#: src/core/routes/email_templates/main.vue:34
+msgid "A/B Testing"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_medals.vue:10
@@ -41,18 +137,167 @@ msgstr ""
 msgid "about Judge.me Medals.."
 msgstr ""
 
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:55
+msgid "Accepts .csv files"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_reviews.vue:40
+msgid "Accepts .csv, .xls, and .xlsx files"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:43
+msgid "Accepts .json files"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:33
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:48
+msgid "Action button text"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:8
+msgid "Actions"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_status.vue:4
+msgid "Active"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_theme.vue:14
 msgid "Add a border around the widget"
 msgstr ""
 
+#: src/core/routes/requests/emails/sections/_sender_info.vue:12
+#: src/core/routes/requests/emails/sections/_sender_info.vue:13
+msgid "Add custom email"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:372
+msgid "Add each word or phrase on a separate line by using Enter."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:29
+#: src/core/routes/import/modal/_import_reviews.vue:27
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:37
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:33
+msgid "Add files"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:5
+msgid "Add GTIN in the feed (Default)"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:47
+msgid "Add JSON-LD snippets (Default)"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:42
+msgid "Add microdata snippets (Default)"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:7
+msgid "Add MPN in the feed"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_custom_form.vue:4
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:5
 msgid ""
 "Add personalized questions to your Review Widget and emails such as product "
 "usage, attributes and surveys."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:4
+msgid "Add stars icons to the All Reviews Counter"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:124
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:172
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:199
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:262
+msgid "Add variables"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:122
+msgid "Add your words here"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_language.vue:7
+msgid "Admin language"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:11
+msgid "Admin notification emails"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:3
+msgid "Admin notifications"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:3
+msgid "Advanced settings"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:10
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:9
+msgid ""
+"After 14 days, reviews that have not been curated will be published "
+"automatically. We strongly encourage you to publish all valid reviews as "
+"soon as possible."
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:119
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:49
+msgid "After the order is fulfilled, send the review request after"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:45
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:59
+msgid "Aftership integration"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_ecommerce_platforms.vue:13
+msgid "AliExpress"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:51
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:39
 #: src/core/routes/widgets/review-widget/_theme.vue:42
 msgid "Align"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:60
+msgid "All Reviews"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:116
+msgid "All reviews are negative"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:48
+msgid "All Reviews Counter"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:29
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:35
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:36
+#: src/core/routes/widgets/reviews-carousel/_header.vue:21
+#: src/core/routes/widgets/verified-reviews-counter/_design.vue:7
+msgid "All Reviews Page URL"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:72
+msgid "All time reviews"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:8
+msgid "All unsubscribed emails"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:64
+msgid "all_reviews_count"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:63
+msgid "all_reviews_rating (round: 1)"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:5
@@ -61,6 +306,40 @@ msgstr ""
 
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:7
 msgid "Allow reviewers to upload videos"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_store_reviews.vue:17
+#, fuzzy
+msgid "Also affects the All Reviews Page and Floating Review Tab."
+msgstr ""
+"This theme will also show for the All Reviews Page and Floating Reviews Tab."
+
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:11
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:15
+#: src/core/routes/widgets/floating-reviews-tab/_store_reviews.vue:17
+msgid "Also affects the All Reviews Page."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:11
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:15
+msgid "Also affects the Floating Review Tab."
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_display_properties.vue:22
+msgid "Always show the widget"
+msgstr ""
+
+#: src/core/routes/requests/cell/_dots_btn.vue:37
+msgid "Always skip this customer"
+msgstr ""
+
+#: src/core/routes/requests/cell/_dots_btn.vue:38
+msgid "Always skip this product"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:7
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:9
+msgid "and use it to import questions from other apps."
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_display_properties.vue:55
@@ -72,8 +351,159 @@ msgstr ""
 msgid "Anonymous dropdown option"
 msgstr ""
 
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:38
+msgid "answer"
+msgstr ""
+
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:61
+msgid "Answer deleted"
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:107
+msgid "Answer edited"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:22
+msgid "Answer label"
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:120
+msgid "Answer published"
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:66
+msgid "Answer question"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:53
+msgid "Anyone can use the coupon"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:5
+msgid "app, any reviews collected using"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_sender_info.vue:19
+msgid "Appears in emails to customers"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:87
+#: src/core/routes/index/filters/main.vue:64
+msgid "Archive"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:121
+msgid "archived"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:3
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:9
+msgid ""
+"Are you sure you want to delete this template? This action can't be undone."
+msgstr ""
+
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:4
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:6
+msgid "Are you sure you want to permanently delete this"
+msgstr ""
+
+#: src/core/routes/requests/modal/_send_request.vue:3
+#: src/core/routes/requests/modal/_send_request.vue:5
+msgid "Are you sure you want to send this request?"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_request.vue:3
+#: src/core/routes/requests/modal/_skip_request.vue:5
+msgid "Are you sure you want to skip this request?"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_product.vue:3
+#: src/core/routes/requests/modal/_skip_product.vue:5
+msgid ""
+"Are you sure you want to stop sending requests for this product? If you "
+"change your mind later, you can reactivate requests via the excluded "
+"products screen."
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_customer.vue:3
+#: src/core/routes/requests/modal/_skip_customer.vue:5
+msgid ""
+"Are you sure you want to stop sending requests to this customer? If you "
+"change your mind later, you can reactivate requests via the Review Request "
+"blocklist."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:71
+msgid ""
+"As an Awesome Plan user you can enable your own page on the Reviews Platform "
+"when you collect 10 verified reviews and have at least 80% of transparency "
+"score."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:54
+msgid "as Anonymous"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_reviews.vue:20
+#: src/core/routes/import/modal/_import_reviews.vue:22
+msgid ""
+"As Stamped.io doesn't provide product IDs or handles, we'll use product "
+"names to match the reviews. Any unmatched reviews will be imported as store "
+"reviews."
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:74
+#: src/core/routes/questions/modal/_ask_community.vue:4
+msgid "Ask community"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:86
+msgid "Ask customer to update review"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:48
+msgid "At least 2 stars"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:49
+msgid "At least 3 stars"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:50
+msgid "At least 4 stars"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:51
+msgid "At least 5 stars"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:69
+msgid "Authenticity"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_body.vue:13
 msgid "Author name"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:11
+msgid "Auto publish rating criteria"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:2
+msgid "Auto publish reviews"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_automatic_reminders.vue:2
+msgid "Automatic reminders"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:14
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:15
+msgid "Automatic Requests"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:46
+msgid "Autoslide interval"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_medals.vue:7
@@ -83,13 +513,105 @@ msgstr ""
 msgid "Available for stores that have met the criteria."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:20
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:24
+msgid ""
+"Available for stores that have met the criteria. Learn more about Judge.me "
+"Medals."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:96
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:29
+msgid "Available for stores that have met the criteria. Learn more."
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:116
+#: src/core/routes/home/_shop_statistics.vue:32
+#: src/core/routes/widgets/preview-badge/_text.vue:47
 #: src/core/routes/widgets/review-widget/text/_heading.vue:31
 msgid "Average rating"
 msgstr ""
 
+#: src/core/routes/widgets/preview-badge/_text.vue:48
+msgid "Average rating (short)"
+msgstr ""
+
+#: src/core/routes/import/main.vue:45 src/core/routes/import/main.vue:50
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:9
+#: src/core/routes/import/section/_import_wizard_step_2.vue:26
+#: src/core/routes/marketing_and_social/google_shopping/main.vue:24
+#: src/core/routes/marketing_and_social/seo_rich_snippets/main.vue:25
+#: src/core/routes/requests/blocklist/main.vue:25
+#: src/core/routes/widgets/all-reviews-counter/main.vue:50
+#: src/core/routes/widgets/all-reviews-page/main.vue:25
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:40
+#: src/core/routes/widgets/medals/main.vue:33
+#: src/core/routes/widgets/preview-badge/main.vue:38
+#: src/core/routes/widgets/question-and-answers/main.vue:26
+#: src/core/routes/widgets/question-and-answers/text/main.vue:40
 #: src/core/routes/widgets/review-widget/main.vue:47
 #: src/core/routes/widgets/review-widget/text/main.vue:47
+#: src/core/routes/widgets/reviews-carousel/main.vue:35
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:47
 msgid "Back"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget.vue:9
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:17
+#: src/core/routes/widgets/medals/_color.vue:28
+msgid "Background color"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_campaigns.vue:14
+msgid "Backup path for out-of-store products"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_color.vue:11
+#: src/core/routes/widgets/reviews-carousel/_color.vue:21
+msgid "Badge color"
+msgstr ""
+
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:10
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:11
+msgid "Badge orientation"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:3
+msgid "Badge positions"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:2
+msgid "Badge settings"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:11
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:9
+msgid "Based on the date we get from your file:"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:39
+msgid "Block height"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:24
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:28
+msgid "Block new reviews containing swear words and offensive phrases."
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:2
+msgid "Blocklist"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_emails_blocklists.vue:2
+msgid "Blocklist and unsubscribed emails"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:81
+msgid "Blocklist words or phrases"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/main.vue:3
+msgid "Blocklists"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/main.vue:50
@@ -104,13 +626,91 @@ msgstr ""
 msgid "Border Style"
 msgstr ""
 
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:36
+msgid "Branded"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_theme.vue:26
+msgid "Branded version"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_branding.vue:2
+msgid "Branding"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:9
+msgid "Button color"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_integrations.vue:15
+msgid ""
+"By default Judge.me offers AggregateReview snippet in both microdata and "
+"JSON-LD format."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:43
+msgid ""
+"By enabling Meta syndication, you agree to let Judge.me share your review "
+"content with Meta in accordance with <a class=\"meta-settings-links\" "
+"target=\"_blank\" href=\"https://www.facebook.com/legal/"
+"commerce_product_merchant_agreement\">Meta’s Seller Agreement,</a> which "
+"gives permission to Meta to use your content. You warrant that you have the "
+"right to grant these permissions to Meta."
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_campaigns.vue:2
+msgid "Campaigns"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_cannot_delete_template_modal.vue:3
+msgid "Can't delete active template"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:56
+msgid "Can't find your app?"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:38
+#: src/core/routes/general_settings/advanced/modal/_cross_store_group.vue:9
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:9
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:9
+#: src/core/routes/index/cell/_customer.vue:89
+#: src/core/routes/questions/modal/_answer_question.vue:11
+#: src/core/routes/questions/modal/_ask_community.vue:11
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:9
+#: src/core/routes/questions/modal/_edit_question.vue:11
+#: src/core/routes/questions/modal/_move_question.vue:10
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:9
+#: src/core/routes/requests/modal/_send_request.vue:9
+#: src/core/routes/requests/modal/_skip_customer.vue:9
+#: src/core/routes/requests/modal/_skip_product.vue:9
+#: src/core/routes/requests/modal/_skip_request.vue:9
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:6
+msgid "Cancel"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:75
 #: src/core/routes/widgets/review-widget/text/_heading.vue:35
 msgid "Cancel button label"
 msgstr ""
 
+#: src/core/routes/requests/main.vue:122
+msgid "Cancel unsent requests"
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:2
+msgid "Cancel unsent requests orders"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:50
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:38
 #: src/core/routes/widgets/review-widget/_theme.vue:41
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:36
 msgid "Cards"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:37
+msgid "Centered"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_text.vue:21
@@ -119,10 +719,99 @@ msgid ""
 "store and reviewer details."
 msgstr ""
 
+#: src/core/routes/widgets/question-and-answers/_text.vue:22
+#: src/core/routes/widgets/question-and-answers/_text.vue:24
+msgid "Change the form fields, labels and buttons in"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_text.vue:20
 msgid ""
 "Change the widget title text and button labels, and customize the average "
 "rating and search bar display."
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:4
+msgid ""
+"Choose a present tone of voice that suits your brand for all your emails. "
+"You can choose a different tone of voice for each email in"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:6
+msgid ""
+"Choose columns from your CSV file to map onto review fields or ignore during "
+"import"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:40
+msgid "Choose reviews manually"
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:6
+msgid ""
+"Choose the period over which you want to cancel unsent review requests for "
+"fulfilled orders."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:4
+msgid ""
+"Choose the reward for customers whose friends have made a purchase (optional)"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_friend_reward.vue:4
+msgid "Choose the reward for friends who receive the link"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:12
+#: src/core/routes/requests/blocklist/_blocklists.vue:19
+msgid "Choose which products you want to collect reviews for."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:34
+msgid "Claim your reward"
+msgstr ""
+
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:37
+msgid "Classic"
+msgstr ""
+
+#: src/core/routes/email_templates/sections/_default_templates.vue:4
+msgid "Classic templates"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:39
+msgid ""
+"Click <strong> + Create template</strong> at the bottom and name it "
+"<strong>judgeme_reviews</strong> and click <strong>Create template</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/medals/main.vue:55
+msgid ""
+"Click <strong>Add block</strong> and select <strong>Section for Medals</"
+"strong>."
+msgstr ""
+
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:69
+msgid ""
+"Click <strong>Add block</strong> and select <strong>Verified Reviews Badge</"
+"strong>."
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/main.vue:74
+msgid ""
+"Click <strong>Add block</strong> at the bottom of the list and select "
+"<strong>Preview Badge (Stars)</strong>. We recommend placing it beneath the "
+"product title."
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/main.vue:63
+msgid ""
+"Click <strong>Add block</strong> at the bottom of the list and select "
+"<strong>Review Carousel</strong>. We recommend placing it at the bottom of "
+"your page, before the Footer."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:47
+msgid "Click <strong>Add page</strong>."
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/main.vue:69
@@ -132,31 +821,173 @@ msgid ""
 "your page, before the Footer."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-page/_install.vue:41
+#: src/core/routes/widgets/all-reviews-page/_install.vue:50
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:53
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:65
+#: src/core/routes/widgets/medals/main.vue:45
+#: src/core/routes/widgets/medals/main.vue:56
+#: src/core/routes/widgets/preview-badge/main.vue:63
+#: src/core/routes/widgets/preview-badge/main.vue:75
 #: src/core/routes/widgets/review-widget/main.vue:58
 #: src/core/routes/widgets/review-widget/main.vue:70
+#: src/core/routes/widgets/reviews-carousel/main.vue:52
+#: src/core/routes/widgets/reviews-carousel/main.vue:64
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:59
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:70
 msgid "Click <strong>Save</strong>."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/main.vue:85
+msgid "Click Add block and select Reviews Text."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:38
+msgid "Click on the dropdown at the top and select <strong>Pages</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/main.vue:73
 #: src/core/routes/widgets/review-widget/main.vue:68
+#: src/core/routes/widgets/reviews-carousel/main.vue:62
 msgid ""
 "Click on the dropdown at the top and select <strong>Products > Default "
 "product</strong>."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/main.vue:74
+#: src/core/routes/widgets/all-reviews-counter/main.vue:86
+msgid "Click Save."
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:60
+msgid ""
+"Click the button below to add the widget automatically to your theme, then "
+"click <strong>Save</strong>. To adjust the position, click on the Reviews Tab"
+msgstr ""
+
+#: src/core/routes/widgets/medals/main.vue:52
+#: src/core/routes/widgets/preview-badge/main.vue:70
 #: src/core/routes/widgets/review-widget/main.vue:65
+#: src/core/routes/widgets/reviews-carousel/main.vue:59
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:66
 msgid ""
 "Click the button below to add the widget automatically to your theme, then "
 "click <strong>Save</strong>. You can adjust the position later."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:82
+msgid ""
+"Click the button below to add the widget automatically to your theme, then "
+"click Save. You can adjust the position later."
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:30
+msgid "Close"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:29
+msgid "Collect more reviews to be featured on the Reviews Platform"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:39
+msgid "Collect reviews via push notifications"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:31
+msgid "Collect reviews via SMS"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_colors.vue:2
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:2
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:2
+#: src/core/routes/widgets/medals/_color.vue:2
+#: src/core/routes/widgets/preview-badge/_color.vue:2
+#: src/core/routes/widgets/question-and-answers/_color.vue:2
+#: src/core/routes/widgets/reviews-carousel/_color.vue:2
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:2
+msgid "Color"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:2
 msgid "Colors"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:38
+msgid "Compact with pictures"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:35
+msgid "Compact without pictures (default)"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_pagination.vue:18
 #: src/core/routes/widgets/review-widget/_pagination.vue:21
 #: src/core/routes/widgets/review-widget/_pagination.vue:22
 msgid "Configure the pagination of reviews and questions."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:61
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:72
+msgid "Copied to clipboard"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:23
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:27
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:18
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:20
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:22
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:11
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:12
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:18
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:19
+msgid "Copy"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:11
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:9
+msgid "Create a new group"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:11
+msgid ""
+"Create tags for specific customers and product orders in Shopify. You can "
+"use these to avoid sending review requests to certain people or items."
+msgstr ""
+
+#: src/core/routes/email_templates/main.vue:33
+msgid "Create template"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:80
+msgid "Created"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:2
+msgid "Cross-store review syndication"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:68
+msgid "CSV column name"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:53
+msgid "Custom"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:3
+msgid "Custom blocklist"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:85
+msgid "Custom blocklist uploaded"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:38
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:37
+#: src/core/routes/widgets/medals/_color.vue:43
+#: src/core/routes/widgets/reviews-carousel/_color.vue:80
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:35
+msgid "Custom color"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:62
@@ -167,8 +998,13 @@ msgstr ""
 msgid "Custom form placeholder"
 msgstr ""
 
+#: src/core/routes/requests/emails/sections/_custom_form.vue:2
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:3
 msgid "Custom forms"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:7
+msgid "Custom Forms columns will not appear below, but will also be imported"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:8
@@ -179,6 +1015,23 @@ msgstr ""
 msgid "Custom star color"
 msgstr ""
 
+#: src/core/routes/questions/main.vue:79 src/core/routes/requests/main.vue:133
+msgid "Customer"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:2
+msgid "Customer reward"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:2
+msgid "Customer reward email"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:54
+msgid "Customers with previous orders won't be eligible for a discount"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_text.vue:5
 #: src/core/routes/widgets/review-widget/_text.vue:8
 msgid "Customize"
 msgstr ""
@@ -187,8 +1040,53 @@ msgstr ""
 msgid "Customize the text in the Review Widget form."
 msgstr ""
 
+#: src/core/routes/marketing_and_social/referrals/sections/_referral_widget.vue:5
+#: src/core/routes/marketing_and_social/referrals/sections/_referral_widget.vue:6
+msgid "Customize widget, page and email layout"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:52
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:57
+msgid "Dark"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:132
+msgid "Date"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:2
+msgid "Date and location format"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:6
+msgid "Date format"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:25
+msgid "Day-Month-Year (DD/MM/YYYY)"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:73
+msgid "days"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:49
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:37
 #: src/core/routes/widgets/review-widget/_theme.vue:40
 msgid "Default"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:79
+msgid "Default badge color"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:37
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:34
+msgid "Default counter colors"
+msgstr ""
+
+#: src/core/routes/widgets/medals/_color.vue:39
+msgid "Default medal colors"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_formatting.vue:22
@@ -199,8 +1097,106 @@ msgstr ""
 msgid "Default sorting method"
 msgstr ""
 
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:36
+msgid "Default tab colors"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:12
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:13
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:14
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:12
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:13
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:14
+msgid "Default URL"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:13
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:15
+msgid ""
+"Define how reviews containing personal information, such as emails, "
+"addresses and names, appear on your store."
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:94
+msgid "Delete"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:3
+msgid "Delete email template"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:76
+msgid "Delete question"
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:106
+msgid "Delete reply"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:93
+msgid "Delete review"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:30
+msgid "Delete template"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:42
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:56
+msgid "Delivery-based requests"
+msgstr ""
+
 #: src/core/routes/widgets/common/_install.vue:5
 msgid "Demo for"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:2
+#: src/core/routes/widgets/medals/_design.vue:2
+#: src/core/routes/widgets/reviews-carousel/_design.vue:2
+#: src/core/routes/widgets/verified-reviews-counter/_design.vue:2
+msgid "Design"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:21
+msgid "Different rows"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:52
+msgid "Direct"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:55
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:55
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:44
+msgid "Disable"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:57
+#: src/core/routes/marketing_and_social/referrals/sections/_referral_widget.vue:26
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:43
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:48
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:102
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:77
+#: src/core/routes/widgets/reviews-carousel/_design.vue:66
+msgid "Disabled"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_cannot_delete_template_modal.vue:15
+#: src/core/routes/home/_key_actions.vue:66
+msgid "Dismiss"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:14
+msgid "Display images on desktop devices"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:18
+msgid "Display images on mobile and tablet devices"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_display.vue:2
+#: src/core/routes/widgets/preview-badge/_display_properties.vue:2
+msgid "Display properties"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:28
@@ -211,8 +1207,97 @@ msgstr ""
 msgid "Display questions and answers on top of each other."
 msgstr ""
 
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:22
+msgid "Display review source Collected via Shop app in the Review Widget"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:19
+msgid "Display store logo"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_pagination.vue:49
 msgid "Divide reviews across multiple pages"
+msgstr ""
+
+#: src/core/routes/index/cell/_customer.vue:24
+#: src/core/routes/index/cell/_customer.vue:27
+msgid "Do you want to manually select which reviews to feature?"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:10
+msgid "Domestic Orders"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:47
+msgid "Don't include product groups reviews"
+msgstr ""
+
+#: src/core/routes/general_settings/integrations/sections/_new_integration.vue:5
+msgid "Don't see an integration you need?"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:4
+msgid "Don't send review requests to these emails"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:61
+msgid "Done"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:6
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:8
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:6
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:5
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:6
+msgid "download a template"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:85
+msgid "Duplicate"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:5
+msgid "Edit"
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:105
+#: src/core/routes/index/cell/_status.vue:101
+msgid "Edit public reply"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:73
+#: src/core/routes/questions/modal/_edit_question.vue:4
+#: src/core/routes/questions/modal/_edit_question.vue:8
+msgid "Edit question"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:90
+msgid "Edit review"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/main.vue:5
+msgid "Edit templates"
+msgstr ""
+
+#: src/core/routes/questions/modal/_edit_question.vue:5
+#: src/core/routes/questions/modal/_edit_question.vue:7
+msgid "Edit the question about"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:51
+msgid "Elegant"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:17
+msgid "Eligibility"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:31
+msgid "Email body text"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:27
+msgid "Email button text"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:17
@@ -235,32 +1320,240 @@ msgstr ""
 msgid "Email field validation"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:22
+msgid "Email heading"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_customer_reward_email.vue:9
+msgid "Email subject"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:89
+msgid "Email template duplicated"
+msgstr ""
+
+#: src/core/routes/email_templates/main.vue:4
+msgid "Email templates"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_automatic_reminders.vue:6
+msgid "Email Templates"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:2
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:8
+msgid "Email tone of voice"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:3
+msgid "Emails blocklist"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:90
 msgid "Empty field"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_color.vue:45
+msgid "Empty star color"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:68
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:47
+#: src/core/routes/widgets/medals/main.vue:39
+#: src/core/routes/widgets/preview-badge/main.vue:57
 #: src/core/routes/widgets/review-widget/main.vue:52
+#: src/core/routes/widgets/reviews-carousel/main.vue:46
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:53
 msgid "Enable ↗️"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:104
+msgid "Enable delivery-based requests"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_pagination.vue:8
 msgid "Enable keyword search"
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:6
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:6
 #: src/core/routes/widgets/review-widget/_medals.vue:6
+#: src/core/routes/widgets/reviews-carousel/_medals.vue:7
 msgid "Enable Medals"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:6
+msgid "Enable permissions"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:54
+msgid "Enable platform-independent widgets"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:76
+msgid "Enable PushOwl notifications"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:68
+msgid "Enable Questions & Answers"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:51
+msgid "Enable review syndication"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:4
+msgid ""
+"Enable this option if you need to show Judge.me widgets in a non-Shopify "
+"HTML page"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_referral_widget.vue:25
+msgid "Enable widget on the checkout page"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:27
+msgid "Enter store group token"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_branding.vue:17
+msgid "Enter your store logo URL"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:12
+msgid "ERROR"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:88
 msgid "Error messages"
 msgstr ""
 
+#: src/core/routes/requests/cell/_status.vue:6
+msgid "Event sent to"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:53
+msgid "exactly as the reviewer provided it, e.g."
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_body.vue:15
 msgid "Example name"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:10
+msgid "Exclude reviews for out-of-store products"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:36
+msgid "Exclude store reviews containing specific keywords"
+msgstr ""
+
+#: src/core/routes/import/section/_questions_and_answers.vue:11
+msgid "Export"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_download_and_restore_settings.vue:2
+msgid "Export and restore settings"
+msgstr ""
+
+#: src/core/routes/import/section/_export_reviews.vue:13
+msgid "Export archived reviews"
+msgstr ""
+
+#: src/core/routes/import/section/_export_reviews.vue:10
+msgid "Export hidden reviews"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:32
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:36
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:37
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:38
+msgid "Export list"
+msgstr ""
+
+#: src/core/routes/import/section/_export_reviews.vue:7
+msgid "Export published reviews"
+msgstr ""
+
+#: src/core/routes/import/section/_export_reviews.vue:2
+msgid "Export reviews"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:6
+msgid ""
+"Export reviews from your current reviews app and import them here easily."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_download_and_restore_settings.vue:8
+msgid "Export settings"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_download_and_restore_settings.vue:4
+msgid ""
+"Export your settings so you can restore them later if needed. You can also "
+"import your settings to a different store if you manage multiple stores."
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:35
+msgid "Feature reviews automatically"
+msgstr ""
+
+#: src/core/routes/index/cell/_customer.vue:97
+msgid "Featured for Carousel"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:11
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:12
+msgid "featured reviews."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:14
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:15
+msgid "File name: "
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:96
 msgid "File size"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:41
+msgid "File uploaded"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:9
+msgid "Filter out spam reviews and questions"
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:34
+msgid "Finished at"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:10
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:11
+#: src/core/routes/marketing_and_social/referrals/sections/_friend_reward.vue:10
+#: src/core/routes/marketing_and_social/referrals/sections/_friend_reward.vue:11
+msgid "Fixed amount"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_text.vue:15
+msgid "Floating Reviews Tab URL"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:7
+msgid "Floating Tab Widget Theme"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:39
+msgid "Focused view"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:131
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:58
+msgid "Follow-up requests and reminders are sent after"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget.vue:11
+msgid "Font color"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/main.vue:51
@@ -271,21 +1564,118 @@ msgstr ""
 msgid "Formatting"
 msgstr ""
 
+#: src/core/routes/requests/emails/sections/_campaigns.vue:56
+msgid "Free plan users can use a page that contains the Review Widget."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_friend_reward.vue:2
+msgid "Friend reward"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:2
+msgid "Friend reward page"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:54
+msgid "Friendly"
+msgstr ""
+
+#: src/core/routes/requests/_empty_history.vue:13
+msgid "from orders fulfilled before you installed Judge.me."
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_name.vue:45
+msgid "Full HTML Template"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:39
+msgid "Full star color"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:31
+msgid "Full year American format mm/dd/yyyy"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:33
+msgid "Full year European format dd/mm/yyyy"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_colors.vue:10
+#: src/core/routes/general_settings/branding/sections/_colors.vue:8
+#: src/core/routes/widgets/preview-badge/_color.vue:12
+#: src/core/routes/widgets/preview-badge/_color.vue:9
 #: src/core/routes/widgets/review-widget/_color.vue:10
 #: src/core/routes/widgets/review-widget/_color.vue:9
+#: src/core/routes/widgets/reviews-carousel/_color.vue:35
+#: src/core/routes/widgets/reviews-carousel/_color.vue:44
 msgid "General Settings"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:12
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:13
+msgid "General Settings > Branding."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_referrals.vue:38
+msgid ""
+"Generate and display a referral link after your customers complete a "
+"purchase.\n"
+"      Your customers can copy and share this referral link with their "
+"friends."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:56
+msgid "Generate the product review feed"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:48
+msgid "Give the page a title (e.g \"Happy Customers\")"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:46
+msgid "Go to <strong>Online Store > Pages</strong>"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:71
+#: src/core/routes/widgets/all-reviews-counter/main.vue:84
+#: src/core/routes/widgets/all-reviews-page/_install.vue:37
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:50
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:62
+#: src/core/routes/widgets/medals/main.vue:42
+#: src/core/routes/widgets/medals/main.vue:54
+#: src/core/routes/widgets/preview-badge/main.vue:60
+#: src/core/routes/widgets/preview-badge/main.vue:72
 #: src/core/routes/widgets/review-widget/main.vue:55
 #: src/core/routes/widgets/review-widget/main.vue:67
+#: src/core/routes/widgets/reviews-carousel/main.vue:49
+#: src/core/routes/widgets/reviews-carousel/main.vue:61
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:56
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:68
 msgid "Go to Theme Editor in Online Store > Themes > Customize."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:2
+msgid "Google Product Review Feed"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/main.vue:3
+#: src/core/routes/marketing_and_social/more/main.vue:15
+#: src/core/routes/marketing_and_social/more/main.vue:16
+#: src/core/routes/marketing_and_social/more/main.vue:4
+#: src/core/routes/marketing_and_social/seo_rich_snippets/main.vue:3
+msgid "Google Shopping"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:4
 msgid "Grid title"
 msgstr ""
 
+#: src/core/routes/import/cell/_review_field.vue:40
+msgid "Handle of purchased product"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_text.vue:20
+#: src/core/routes/widgets/reviews-carousel/_header.vue:2
 msgid "Header"
 msgstr ""
 
@@ -297,8 +1687,46 @@ msgstr ""
 msgid "Header (with reviews)"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_color.vue:57
+msgid "Header background and border"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:65
+msgid "Header text"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_header.vue:9
+msgid "Header title"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/main.vue:49
 msgid "Heading"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:23
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:24
+msgid "Hide current review breakdown"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_judgeme_branding.vue:3
+msgid "Hide Judge.me branding on emails and widgets"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:65
+msgid "Hide question"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:71
+#: src/core/routes/index/cell/_status.vue:79
+msgid "Hide review"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_display_properties.vue:23
+msgid "Hide the widget if the product has no reviews"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_display.vue:3
+msgid "Hide widget on mobile and tablet devices"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:55
@@ -310,31 +1738,311 @@ msgid "Highest Rating"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:26
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:41
 msgid "Horizontal"
 msgstr ""
 
+#: src/core/routes/home/_shop_statistics.vue:56
+#: src/core/routes/home/_shop_statistics.vue:60
+msgid ""
+"If enabled, these are shown on your Judge.me Review Site pages under Trust "
+"Scores. Verified reviews include those from customers with fulfilled orders "
+"or imported with proof of authenticity"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:14
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:16
+msgid "If not, send us your file at support@judge.me and we'll look into it."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:45
+msgid ""
+"If you have large product groups please note this can increase your feed "
+"size significantly."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:5
+msgid ""
+"If you have multiple stores selling the same products you easily share "
+"reviews across all of them. In order to match the products correctly, please "
+"make sure all products share the same SKU codes."
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:48
+#: src/core/routes/widgets/medals/main.vue:40
+#: src/core/routes/widgets/preview-badge/main.vue:58
 #: src/core/routes/widgets/review-widget/main.vue:53
+#: src/core/routes/widgets/reviews-carousel/main.vue:47
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:54
 msgid ""
 "If you haven't enabled the app embed yet, click the button below to enable "
 "it automatically, then click <strong>Save</strong>."
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/main.vue:69
+msgid ""
+"If you haven't enabled the app embed yet, click the button below to enable "
+"it automatically, then click Save."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:4
+msgid "If your store is already featured on the"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:6
+#: src/core/routes/import/section/_import_wizard_step_2.vue:27
+#: src/core/routes/import/section/_questions_and_answers.vue:8
+msgid "Import"
+msgstr ""
+
+#: src/core/routes/import/main.vue:3
+msgid "Import & Export"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:5
+msgid ""
+"Import a CSV file with order info to schedule requests in batch. Click here "
+"to"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:18
+msgid "Import App"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_ecommerce_platforms.vue:2
+msgid "Import from e-commerce platforms"
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:2
+msgid "Import log"
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:33
+msgid "Import logs"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:28
+msgid "Import questions"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:2
+msgid "Import questions and answers"
+msgstr ""
+
+#: src/core/routes/import/section/_questions_and_answers.vue:5
+msgid ""
+"Import questions and answers from a CSV file, or export your existing ones."
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:2
+msgid "Import reviews from a CSV file"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:85
+msgid "Import Wizard"
+msgstr ""
+
+#: src/core/routes/import/main.vue:63
+#: src/core/routes/import/section/_import_wizard_step_2.vue:81
+msgid "Import wizard | Step 1: File upload"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:28
+#: src/core/routes/import/section/_import_from_apps.vue:29
+msgid "Import your reviews in spreadsheet format using our Import Wizard."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_integrations.vue:16
+msgid ""
+"In order for our JSON-LD snippet (about the reviews) to work with your SEO "
+"app's snippet (about the product),"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:49
+msgid ""
+"In the <strong>Online store section</strong> on the right, select "
+"<strong>judgeme_reviews</strong>."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:30
+msgid "Include review photos"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:32
+msgid "Include reviews containing personal information"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_out_of_store_products.vue:4
+msgid ""
+"Include reviews for out-of-store products in all widgets and out-of-store "
+"text setting"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:44
+msgid "Include reviews part of product groups"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:21
+#: src/core/routes/widgets/reviews-carousel/_design.vue:27
+#: src/core/routes/widgets/reviews-carousel/_design.vue:28
+#: src/core/routes/widgets/reviews-carousel/_design.vue:30
+msgid "Increase this value if your images are blurry."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:40
+msgid ""
+"Inside the template, click <strong>Add section</strong> and select "
+"<strong>Review Page (Paid plan)</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_install.vue:2
 #: src/core/routes/widgets/common/_install.vue:2
+#: src/core/routes/widgets/question-and-answers/_install.vue:2
 msgid "Install"
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/main.vue:80
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:58
+#: src/core/routes/widgets/medals/main.vue:50
+#: src/core/routes/widgets/preview-badge/main.vue:68
 #: src/core/routes/widgets/review-widget/main.vue:63
+#: src/core/routes/widgets/reviews-carousel/main.vue:57
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:64
 msgid "Install ↗️"
 msgstr ""
 
+#: src/core/routes/import/section/_import_from_ecommerce_platforms.vue:18
+msgid "Install app"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_ecommerce_platforms.vue:14
+msgid "Install Judge.me AliExpress Reviews app"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:2
+msgid "Installation"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:5
+msgid "Installation theme"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:4
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:5
+msgid "Integrate with PushOwl to enable this feature."
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:40
+msgid ""
+"Integrate with PushOwl to send review requests and remind customers to "
+"submit pictures or videos."
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:32
+msgid ""
+"Integrate with third-party apps such as SMSBump or ConvertWay to send review "
+"requests via SMS."
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:27
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:33
+msgid "International orders"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:43
+msgid "IP address"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:13
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:15
+msgid "Is this processed date correct?"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:134
+msgid "Item"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:44
+msgid "items"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:13
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:15
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:16
+msgid "Join group"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_early_user_program.vue:4
+msgid "Join Judge.me Early User Program"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_judgeme_branding.vue:2
+msgid "Judge.me branding"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_early_user_program.vue:2
+msgid "Judge.me Early User Program"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_medals.vue:3
+msgid "Judge.me medals"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:2
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:2
 #: src/core/routes/widgets/review-widget/_medals.vue:2
+#: src/core/routes/widgets/reviews-carousel/_medals.vue:2
 msgid "Judge.me Medals"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:10
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:11
+msgid "Judge.me will use your store logo from your PushOwl settings."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:37
+msgid ""
+"Keywords: Shipped, arrived, support, shipping, company, email, shipment, "
+"store, package, service, business, deliver, order."
+msgstr ""
+
+#: src/core/routes/requests/cell/_status.vue:7
+msgid "Klaviyo"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_language.vue:2
+msgid "Language"
+msgstr ""
+
+#: src/core/routes/home/_recent_activity.vue:44
+msgid "Last questions"
+msgstr ""
+
+#: src/core/routes/home/_recent_activity.vue:37
+msgid "Last reviews"
 msgstr ""
 
 #: src/core/routes/widgets/common/_install.vue:58
 msgid "Learn how to add the %{widget_name} to your theme."
 msgstr "Learn how to add the %{widget_name} to your theme."
 
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:11
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:9
+msgid "Learn how to set it up."
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:10
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:6
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:7
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:49
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:47
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:61
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:15
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:17
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:26
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:30
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:8
+#: src/core/routes/widgets/all-reviews-page/_install.vue:8
 #: src/core/routes/widgets/common/_install.vue:10
 #: src/core/routes/widgets/review-widget/_install_1_0.vue:7
 #: src/core/routes/widgets/review-widget/_medals.vue:10
@@ -343,8 +2051,74 @@ msgstr "Learn how to add the %{widget_name} to your theme."
 msgid "Learn more"
 msgstr ""
 
+#: src/core/routes/general_settings/integrations/sections/_integration_app.vue:34
+msgid "Learn more ↗️"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_referrals.vue:27
+msgid "Learn more about Referrals"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:6
+msgid "Learn more."
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_color.vue:14
+msgid "Leave as default to use your primary star color"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:28
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:32
+msgid "Leave group"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:51
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:56
+msgid "Light"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:52
 msgid "Limit the number of lines shown"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:31
+#: src/core/routes/widgets/reviews-carousel/_header.vue:17
+msgid "Link text to All Reviews Page if available"
+msgstr ""
+
+#: src/core/routes/widgets/verified-reviews-counter/_design.vue:4
+msgid "Link widget to All Reviews Page if available"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:5
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:6
+msgid "list here."
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:22
+msgid ""
+"List of emails separated by comma (,). You can use an asterisk * to match "
+"characters such as *@hotmail.com, no-reply@*"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:67
+msgid "List of tags separated by comma (,)"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:30
+msgid "Load more button text"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:57
+msgid "Load new reviews automatically when scrolling down"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:60
+msgid "Load new reviews by clicking button"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:24
+msgid "Loading behavior"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:57
@@ -355,8 +2129,45 @@ msgstr ""
 msgid "Lowest Rating"
 msgstr ""
 
+#: src/core/routes/import/cell/_review_field.vue:34
+msgid "Main content of the review"
+msgstr ""
+
+#: src/core/routes/general_settings/integrations/sections/_integration_app.vue:33
+msgid "Manage"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_emails_blocklists.vue:3
+msgid "Manage blocklists"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_custom_form.vue:5
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:7
 msgid "Manage custom forms"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_hero_cta.vue:20
+msgid "Manage email templates"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_hero_cta.vue:21
+msgid "Manage notification emails"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:5
+msgid "Manage notification emails."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:58
+msgid "Manage store page"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_send_request.vue:7
+msgid "Maximum number of emails to send for each order"
+msgstr ""
+
+#: src/core/routes/widgets/medals/_design.vue:4
+msgid "Medals placement on mobile"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:14
@@ -368,8 +2179,32 @@ msgstr ""
 msgid "Media items"
 msgstr ""
 
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:38
+msgid "Media reminder"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:3
 msgid "Media upload"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:3
+msgid "Meta syndication"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:48
+msgid "Minimum order value"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:49
+msgid "Minimum quantity of items"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:25
+msgid "Month-Day-Year (MM/DD/YYYY) format."
+msgstr ""
+
+#: src/core/routes/requests/main.vue:7
+msgid "More action"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:65
@@ -388,8 +2223,22 @@ msgstr ""
 msgid "Most Recent"
 msgstr ""
 
+#: src/core/routes/questions/cell/_status.vue:75
+#: src/core/routes/questions/modal/_move_question.vue:3
+#: src/core/routes/questions/modal/_move_question.vue:7
+msgid "Move question"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_name.vue:39
+msgid "Multiple Review Template"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:17
 msgid "Mute videos by default"
+msgstr ""
+
+#: src/core/routes/email_templates/sections/_custom_templates.vue:29
+msgid "Name"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:2
@@ -408,8 +2257,142 @@ msgstr ""
 msgid "Name field placeholder"
 msgstr ""
 
+#: src/core/routes/import/section/_import_from_apps.vue:7
+msgid "Need help exporting the reviews?"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:21
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:23
+#: src/core/routes/import/modal/_import_reviews.vue:16
+#: src/core/routes/import/modal/_import_reviews.vue:18
+msgid "Need help? Check this article"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:10
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:22
+msgid "Need help? Check this article ↗️"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:64
+msgid "Need one template"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:37
+msgid "Negative review star rating"
+msgstr ""
+
+#: src/core/routes/questions/modal/_move_question.vue:31
+msgid "New Product"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:11
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:13
+msgid "No incentive"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:47
+msgid "No minimum requirement"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:10
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:11
+msgid "No one unsubcribed yet"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_text.vue:5
+msgid "No questions text"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:114
+msgid "No review is negative"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:20
+msgid "Notify me when a new review is created"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:34
+msgid "Number of items per page"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_text.vue:48
+msgid "Number of questions"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:118
+msgid "Number of questions received via the widgets."
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_text.vue:8
+#: src/core/routes/widgets/question-and-answers/_text.vue:9
+msgid "Number of questions text"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_automatic_reminders.vue:46
+msgid "Number of reminders per order"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:113
+msgid "Number of review requests emails sent in this period."
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:46
+msgid "Number of reviews"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:114
+msgid "Number of reviews collected via email or widgets in this period."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_referrals.vue:45
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:79
+msgid "Off"
+msgstr ""
+
+#: src/core/routes/requests/cell/_status.vue:14
+msgid "on"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_referrals.vue:43
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:77
+msgid "On"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:83
+msgid ""
+"On most browsers, the action button becomes available after clicking to "
+"expand. Clicking on the message will redirect users to the product page to "
+"write a review."
+msgstr ""
+
+#: src/core/routes/widgets/medals/_design.vue:23
+msgid "On the left"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:51
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:63
+#: src/core/routes/widgets/medals/main.vue:43
+#: src/core/routes/widgets/preview-badge/main.vue:61
 #: src/core/routes/widgets/review-widget/main.vue:56
+#: src/core/routes/widgets/reviews-carousel/main.vue:50
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:57
 msgid "On the left sidebar navigate to <strong>App Embeds</strong>."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:72
+msgid "On the left sidebar navigate to App Embeds."
+msgstr ""
+
+#: src/core/routes/widgets/medals/_design.vue:24
+msgid "On the right"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:5
+msgid "Only available for English (U.S.) text."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:54
+msgid "Only new customers can use"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:59
@@ -420,13 +2403,111 @@ msgstr ""
 msgid "Only Pictures"
 msgstr ""
 
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:25
+msgid "or"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:46
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:60
+msgid "or install a third-party app to give you updates on the delivery."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:76
+#: src/core/routes/widgets/all-reviews-counter/main.vue:89
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:55
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:68
+#: src/core/routes/widgets/medals/main.vue:47
+#: src/core/routes/widgets/medals/main.vue:59
+#: src/core/routes/widgets/preview-badge/main.vue:65
+#: src/core/routes/widgets/preview-badge/main.vue:78
 #: src/core/routes/widgets/review-widget/main.vue:60
 #: src/core/routes/widgets/review-widget/main.vue:73
+#: src/core/routes/widgets/reviews-carousel/main.vue:54
+#: src/core/routes/widgets/reviews-carousel/main.vue:67
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:61
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:73
 msgid "or install manually"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:14
+msgid "Or join an existing group"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:131
+msgid "Order"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:20
+msgid "Order fulfillment date"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:117
+#: src/core/routes/home/_shop_statistics.vue:38
+msgid "Orders from Judge.me"
+msgstr ""
+
+#: src/core/routes/questions/modal/_ask_community.vue:6
+#: src/core/routes/questions/modal/_ask_community.vue:8
+msgid "orders with this product."
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:19
+#: src/core/routes/import/section/_import_from_apps.vue:20
+msgid "Other (Import Wizard)"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_out_of_store_products.vue:2
+msgid "Out-of-store products"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_out_of_store_products.vue:7
+msgid "Out-of-store text"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:2
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:2
+msgid "Page"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:67
+msgid "Page body text"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:53
+msgid "Page button text"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:10
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:9
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:10
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:9
+msgid "Page handle"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:37
+msgid "Page heading text"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:5
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:5
+msgid "Page title"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:42
+msgid "Page width"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:136
 msgid "Pagination color"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_customer_reward.vue:9
+#: src/core/routes/marketing_and_social/referrals/sections/_friend_reward.vue:9
+msgid "Percentage off"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:13
+msgid "Personal information"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:2
@@ -437,12 +2518,36 @@ msgstr ""
 msgid "Pick a custom secondary color"
 msgstr ""
 
+#: src/core/routes/email_templates/cell/_name.vue:42
+msgid "Picture First Template"
+msgstr ""
+
+#: src/core/routes/index/cell/_media_files.vue:73
+msgid "Picture hidden"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:27
+msgid "Picture physical size"
+msgstr ""
+
+#: src/core/routes/index/cell/_media_files.vue:72
+msgid "Picture published"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:42
+msgid "Picture URLs"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:55
 msgid "Picture/video field"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:57
 msgid "Picture/video upload label"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:23
+msgid "Pictures"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:61
@@ -453,16 +2558,252 @@ msgstr ""
 msgid "Pictures First"
 msgstr ""
 
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:2
+msgid "Platform-independent Review Widget"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:106
+msgid ""
+"Please ensure your orders are getting updated in Shopify. Review requests "
+"will be marked as Waiting for Delivery.They'll be sent according to the "
+"timings in your settings."
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:49
+msgid ""
+"Please make sure each row in the CSV file has no more than 50 characters."
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:23
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:25
+msgid ""
+"Please make sure that you have selected the correct column and that the date "
+"is in"
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:46
+msgid "Please select a date"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:61
+#: src/core/routes/manual_requests/modal/_send_request.vue:48
+msgid "Please select date"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:18
+#: src/core/routes/index/filters/main.vue:28
+msgid "Please try changing the search terms or filters"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_body.vue:17
 msgid "Prefix text"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_preview.vue:2
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget_preview.vue:2
+#: src/core/routes/widgets/all-reviews-counter/main.vue:8
+#: src/core/routes/widgets/floating-reviews-tab/_sample_preview.vue:2
+#: src/core/routes/widgets/medals/_sample_preview.vue:2
+#: src/core/routes/widgets/preview-badge/main.vue:8
+#: src/core/routes/widgets/reviews-carousel/_sample_preview.vue:2
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:8
+msgid "Preview"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:136
+msgid "Price"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_colors.vue:7
 #: src/core/routes/widgets/review-widget/_color.vue:9
 msgid "Primary color (Star color)"
 msgstr ""
 
+#: src/core/routes/requests/main.vue:137
+msgid "Process.."
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:42
+msgid "product"
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:47
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:6
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:7
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:8
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:9
+msgid "Product"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:16
+msgid "Product blocklist"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:40
+msgid "Product handle"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:39
+msgid "Product ID"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:61
+msgid "Product Reviews"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_store_reviews.vue:39
+#: src/core/routes/widgets/floating-reviews-tab/_store_reviews.vue:40
+msgid "Product reviews first"
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:43
+msgid "products"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:25
+msgid "Profanity filter"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:9
+msgid "Promote your products with Judge.me Reviews Platform"
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:24
+msgid "public reply"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:47
+msgid "Publish all reviews automatically"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:42
+msgid "Publish new reviews automatically"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:67
+msgid "Publish question"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:73
+#: src/core/routes/index/cell/_status.vue:78
+msgid "Publish review"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_auto_publish_reviews.vue:43
+msgid "Publish reviews manually"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:29
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:44
+msgid "Push message"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:25
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:40
+msgid "Push title"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:8
+msgid "PushOwl"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:135
+msgid "Quantity"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:74
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:40
+msgid "question"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:81
+msgid "Question"
+msgstr ""
+
+#: src/core/routes/questions/modal/_deletion_confirmation.vue:71
+msgid "Question deleted"
+msgstr ""
+
+#: src/core/routes/questions/modal/_edit_question.vue:57
+msgid "Question edited successfully."
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:18
+msgid "Question field placeholder text"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:12
+msgid "Question form"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:26
+msgid "Question form success"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:85
+msgid "Question hidden"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:16
+msgid "Question label"
+msgstr ""
+
+#: src/core/routes/questions/modal/_move_question.vue:102
+msgid "Question moved"
+msgstr ""
+
+#: src/core/routes/questions/cell/_status.vue:85
+msgid "Question published"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:14
+msgid "Question section heading"
+msgstr ""
+
+#: src/core/routes/questions/modal/_ask_community.vue:54
+msgid "Question sent"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:79
 msgid "Question submitted confirmation message"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:28
+msgid "Question success message heading"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:75
+msgid "questions"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:5 src/core/routes/questions/main.vue:66
+msgid "Questions & Answers"
+msgstr ""
+
+#: src/core/routes/import/section/_questions_and_answers.vue:2
+msgid "Questions and answers"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_install.vue:12
+#: src/core/routes/widgets/question-and-answers/_install.vue:17
+msgid "Questions and Answers"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:118
+#: src/core/routes/home/_shop_statistics.vue:44
+msgid "Questions received"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:7
+msgid "Questions subtab label"
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:49
+msgid "Rating"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:35
+msgid "Rating (Required)"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:30
@@ -477,20 +2818,190 @@ msgstr ""
 msgid "Rating filter"
 msgstr ""
 
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:48
+msgid "Receive negative review notifications at a different email"
+msgstr ""
+
+#: src/core/routes/home/_recent_activity.vue:2
+msgid "Recent activity"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget.vue:2
+#: src/core/routes/marketing_and_social/referrals/sections/_referral_widget.vue:2
+msgid "Referral widget"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/main.vue:3
+#: src/core/routes/marketing_and_social/referrals/sections/_referrals.vue:3
+msgid "Referrals"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_heading.vue:37
 msgid "Refresh button label"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_automatic_reminders.vue:5
+msgid ""
+"Remind customers to leave a review if they don't leave one upon getting the "
+"first request. You can customize your reminder emails in"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:32
+msgid "Replace personal information with asterisks."
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:24
+msgid "reply"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:41
+msgid "Reply"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_body.vue:11
 msgid "Reply author"
 msgstr ""
 
+#: src/core/routes/index/cell/_rating.vue:127
+msgid "Reply edited"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:102
+msgid "Reply privately via email"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:101
+msgid "Reply publicly"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_request.vue:32
+msgid "Request already processed"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:2
+msgid "Request History"
+msgstr ""
+
+#: src/core/routes/requests/modal/_send_request.vue:30
+msgid "Request scheduled"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:84
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:66
+msgid "Request scheduled successfully"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:2
+msgid "Request Timing"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_send_request.vue:53
+msgid "Requests scheduled"
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:51
+msgid "Requests skipped."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:14
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:22
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:25
+msgid "Required amount"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:3
+msgid "Requirement"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:2
+msgid "Requirement and eligibility"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:5
+msgid "Reset"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_colors.vue:5
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:15
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:5
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:30
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:36
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:37
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:5
+#: src/core/routes/widgets/floating-reviews-tab/_text.vue:5
+#: src/core/routes/widgets/medals/_color.vue:6
+#: src/core/routes/widgets/preview-badge/_color.vue:6
+#: src/core/routes/widgets/question-and-answers/_color.vue:4
 #: src/core/routes/widgets/review-widget/_color.vue:4
+#: src/core/routes/widgets/reviews-carousel/_color.vue:6
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:5
 msgid "Reset to default"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:12
+msgid "Responsiveness"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:6
+msgid "Restart onboarding"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:2
+#: src/core/routes/general_settings/advanced/section/_download_and_restore_settings.vue:9
+msgid "Restore settings"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:4
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:6
+msgid "Restore your settings from a JSON file."
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:115
+msgid "Revenue generated"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:73
+msgid "Review block"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:34
+msgid "Review body"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:3
+msgid "Review content"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:2
+msgid "Review curation"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:36
+msgid "Review date"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:153
+msgid "Review deleted."
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:3
+msgid "Review details"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:67
+msgid "Review field"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:109
 msgid "Review filter color"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/more/main.vue:9
+msgid "review guidelines"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:111
+msgid "Review hidden"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_formatting.vue:13
@@ -501,8 +3012,34 @@ msgstr ""
 msgid "Review list"
 msgstr ""
 
+#: src/core/routes/index/cell/_customer.vue:110
+msgid "Review pinned"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:111
+msgid "Review published"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:4
 msgid "Review rating preset value"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:23
+msgid "Review request"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_customer.vue:30
+#: src/core/routes/requests/modal/_skip_product.vue:30
+#: src/core/routes/requests/modal/_skip_request.vue:35
+msgid "Review request skipped"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:113
+msgid "Review requests sent"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:2
+msgid "Review restriction"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_reviews_sources.vue:2
@@ -525,21 +3062,148 @@ msgstr ""
 msgid "Review visibility dropdown"
 msgstr ""
 
+#: src/core/routes/widgets/question-and-answers/_text.vue:23
+#: src/core/routes/widgets/question-and-answers/_text.vue:25
+#: src/core/routes/widgets/question-and-answers/text/main.vue:42
 #: src/core/routes/widgets/review-widget/main.vue:46
 #: src/core/routes/widgets/review-widget/text/main.vue:45
 msgid "Review Widget"
 msgstr ""
 
+#: src/core/routes/import/cell/_review_field.vue:38
+msgid "Reviewer email"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:15
+msgid "Reviewer information"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:37
 #: src/core/routes/widgets/review-widget/_display_properties.vue:14
 msgid "Reviewer name"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:5
+msgid "Reviewer name format"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:7
+msgid "Reviewer's email"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:5
+msgid "Reviewer's name"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_page.vue:39
+#: src/core/routes/widgets/verified-reviews-counter/_page.vue:39
+msgid "reviews"
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:48
+msgid "Reviews"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:114
+msgid "Reviews collected"
+msgstr ""
+
+#: src/core/routes/home/main.vue:9
+msgid "Reviews Dashboard"
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:44
+msgid "reviews imported from"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:5
+msgid "Reviews subtab label"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_theme.vue:48
 msgid "Round corners"
 msgstr ""
 
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:26
+msgid "Same row"
+msgstr ""
+
+#: src/core/routes/import/section/_import_wizard_step_2.vue:69
+msgid "Sample content"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:114
+#: src/core/routes/email_templates/cell/_actions.vue:80
+msgid "Sample email sent"
+msgstr ""
+
+#: src/core/routes/general_settings/account/main.vue:3
+#: src/core/routes/general_settings/branding/main.vue:3
+#: src/core/routes/marketing_and_social/google_shopping/main.vue:8
+#: src/core/routes/marketing_and_social/referrals_widget/main.vue:8
+#: src/core/routes/marketing_and_social/referrals/main.vue:3
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:3
+#: src/core/routes/marketing_and_social/seo_rich_snippets/main.vue:8
+#: src/core/routes/requests/blocklist/main.vue:8
+#: src/core/routes/requests/emails/main.vue:3
+#: src/core/routes/requests/moderation/main.vue:3
+msgid "Save"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:23
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:2
+msgid "Schedule manual request"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:16
+msgid "Schedule manual requests"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:18
+msgid ""
+"Schedule manual review requests to a single customer or in batch via CSV "
+"file."
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:6
+msgid "Schedule request"
+msgstr ""
+
+#: src/core/routes/requests/_empty_history.vue:13
+msgid "schedule requests"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:34
+msgid "Schedule requests"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:3
+msgid "Schedule Requests"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:12
+#: src/core/routes/manual_requests/main.vue:6
+#: src/core/routes/manual_requests/modal/_send_request.vue:2
+msgid "Schedule requests for previous orders"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:26
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:2
+msgid "Schedule requests in batch"
+msgstr ""
+
+#: src/core/routes/manual_requests/main.vue:8
+msgid ""
+"Schedule review requests in batch for orders placed before you installed "
+"Judge.me."
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_pagination.vue:2
 msgid "Search and pagination"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_apps.vue:32
+msgid "Search app"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:42
@@ -550,8 +3214,31 @@ msgstr ""
 msgid "Search bar placeholder"
 msgstr ""
 
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:23
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:57
+#: src/core/routes/questions/modal/_move_question.vue:62
+msgid "Search by product title, handle or ID"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:52
+#: src/core/routes/widgets/medals/main.vue:44
+#: src/core/routes/widgets/preview-badge/main.vue:62
 #: src/core/routes/widgets/review-widget/main.vue:57
+#: src/core/routes/widgets/reviews-carousel/main.vue:51
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:58
 msgid "Search for <strong>Judge.me Reviews</strong> and turn on the toggle."
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:64
+msgid "Search for <strong>Reviews Tab</strong> and turn on the toggle."
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:73
+msgid "Search for Judge.me Reviews and turn on the toggle."
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:6
+msgid "Searching in"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:37
@@ -562,12 +3249,158 @@ msgstr ""
 msgid "See all reviews"
 msgstr ""
 
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:12
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:7
+msgid "See customers who left web reviews"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_heading.vue:6
 msgid "See more text"
 msgstr ""
 
+#: src/core/routes/widgets/question-and-answers/_install.vue:11
+#: src/core/routes/widgets/question-and-answers/_install.vue:16
+msgid "See your list of questions in"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_batch.vue:26
+msgid ""
+"Select the encoding of your CSV file. Normally, it should be UTF-8. However, "
+"if you edited the file with Excel in Windows OS, it would be Windows-1252, "
+"but with Excel in MacOS, it would be WebRoman"
+msgstr ""
+
+#: src/core/routes/import/section/_import_from_ecommerce_platforms.vue:4
+msgid "Selling elsewhere? You can import your reviews to your Shopify store."
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:8
+msgid "Send answer"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_automatic_reminders.vue:11
+msgid "Send automatic reminders"
+msgstr ""
+
+#: src/core/routes/questions/modal/_ask_community.vue:8
+msgid "Send question"
+msgstr ""
+
+#: src/core/routes/requests/modal/_send_request.vue:2
+#: src/core/routes/requests/modal/_send_request.vue:6
+msgid "Send request"
+msgstr ""
+
+#: src/core/routes/requests/cell/_dots_btn.vue:35
+msgid "Send request now"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_send_request.vue:6
+msgid "Send requests"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:44
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:58
+msgid ""
+"Send requests after an order is marked as delivered in Shopify's Orders "
+"page. You can manage orders directly in Shopify, enable the"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:13
+msgid "Send requests for domestic orders"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:36
+msgid "Send requests for international orders"
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_send_request.vue:5
+msgid "Send requests for orders created starting from"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_campaigns.vue:10
+msgid "Send review requests for out-of-store products"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_campaigns.vue:4
+msgid ""
+"Send review requests to customers who have opted out of Shopify marketing "
+"emails"
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_actions.vue:110
+#: src/core/routes/email_templates/cell/_actions.vue:76
+msgid "Send sample email"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_sender_info.vue:10
+#: src/core/routes/requests/emails/sections/_sender_info.vue:9
+msgid "Sender email"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_sender_info.vue:2
+msgid "Sender info"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_sender_info.vue:9
+msgid "Sender name"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_integrations.vue:2
+msgid "SEO Integrations"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/more/main.vue:21
+#: src/core/routes/marketing_and_social/more/main.vue:27
+#: src/core/routes/marketing_and_social/more/main.vue:28
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:2
+msgid "SEO Rich Snippets"
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:61
+msgid "Separate email addresses with a comma (,). You can add up to 3 emails."
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:4
+msgid "Set how reviews show in the Carousel"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:14
+msgid "Settings"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:85
+msgid "Share on social media"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_body.vue:9
 msgid "Shop and reviewer details"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:2
+msgid "Shop app syndication"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:66
+msgid "shop_reviews_count"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:65
+msgid "shop_reviews_rating (round: 1)"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:4
+msgid ""
+"Shopify requires us to sync customers who leave web reviews with your store "
+"admin, but we need permissions to do this."
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:32
+msgid "Short year American format mm/dd/yy"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:34
+msgid "Short year European format dd/mm/yy"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_display_properties.vue:54
@@ -580,8 +3413,25 @@ msgstr ""
 msgid "Shorten last name"
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:24
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:10
+msgid "Show ‘Verified by Judge.me’ badge"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_date_and_location_format.vue:30
+msgid "Show a timestamp like [Yesterday] or [2 weeks ago]"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_reviews_sources.vue:4
-msgid "Show “Collected by Judge.me” beneath the widget header"
+msgid "Show collected by Judge.me beneath the widget header"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_medals.vue:4
+msgid "Show earned product medals"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:22
+msgid "Show example"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_display_properties.vue:52
@@ -593,8 +3443,32 @@ msgstr ""
 msgid "Show product medals"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_design.vue:19
+msgid "Show product name and URL"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:67
+msgid "Show product pictures"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_install.vue:9
+msgid "Show Q&A Badge"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_color.vue:4
+msgid "Show Q&A icon on Preview Badge (stars)"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_install.vue:4
+msgid "Show Q&A Tab"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_photos_and_videos.vue:15
 msgid "Show recent photos and videos in a grid"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:9
+msgid "Show review body"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_reviews_sources.vue:10
@@ -602,7 +3476,16 @@ msgid "Show review collection policy information"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_theme.vue:21
+#: src/core/routes/widgets/reviews-carousel/_design.vue:11
 msgid "Show review date"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:68
+msgid "Show review pictures if available"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_design.vue:5
+msgid "Show review rating"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_pagination.vue:4
@@ -613,6 +3496,10 @@ msgstr ""
 msgid "Show review timestamps"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_design.vue:7
+msgid "Show review title"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_display_properties.vue:9
 msgid "Show reviewer country flag"
 msgstr ""
@@ -621,12 +3508,37 @@ msgstr ""
 msgid "Show reviewer location"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_design.vue:17
+msgid "Show reviewer name"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_display_properties.vue:11
 msgid "Show reviewer profile photo if available"
 msgstr ""
 
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:38
+msgid "Show slider arrows next to the widget"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:42
+msgid "Show stars only"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_medals.vue:5
+#: src/core/routes/widgets/floating-reviews-tab/_medals.vue:6
+msgid "Show store medals"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:41
+msgid "Show text and stars"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:51
 msgid "Show the full review"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_header.vue:5
+msgid "Show the header"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_pagination.vue:13
@@ -639,8 +3551,52 @@ msgid ""
 "products with at least 10 verified reviews."
 msgstr ""
 
+#: src/core/routes/marketing_and_social/reviews_site_settings/main.vue:72
+msgid ""
+"Showcase remarkable reviews and funnel potential buyers to your store. Here "
+"you can enable, customize the look and choose the reviews you want to "
+"feature on your Store page."
+msgstr ""
+
+#: src/core/routes/email_templates/cell/_name.vue:36
+msgid "Single Review Template"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_customer.vue:2
+msgid "Skip customers"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_product.vue:2
+msgid "Skip products"
+msgstr ""
+
+#: src/core/routes/requests/modal/_skip_customer.vue:6
+#: src/core/routes/requests/modal/_skip_product.vue:6
+#: src/core/routes/requests/modal/_skip_request.vue:2
+#: src/core/routes/requests/modal/_skip_request.vue:6
+msgid "Skip request"
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:6
+msgid "Skip requests"
+msgstr ""
+
+#: src/core/routes/requests/cell/_dots_btn.vue:36
+msgid "Skip this request"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:52
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:40
 #: src/core/routes/widgets/review-widget/_theme.vue:43
 msgid "Slider"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:13
+msgid "Slider arrows"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_color.vue:31
+msgid "Slider navigation arrows"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_display_properties.vue:23
@@ -651,25 +3607,130 @@ msgstr ""
 msgid "Social share option"
 msgstr ""
 
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:74
+msgid "Something went wrong, please check your file and try again"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_heading.vue:20
 #: src/core/routes/widgets/review-widget/text/_heading.vue:22
 msgid "Source of review"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:63
+msgid "Spam"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:8
+msgid "Spam filter"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_theme.vue:47
 msgid "Square corners"
 msgstr ""
 
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:41
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:45
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:46
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:51
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:53
+msgid "standard blocklist"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_color.vue:9
+msgid "Star rating"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:10
+#: src/core/routes/widgets/preview-badge/_text.vue:12
+msgid "Star rating text"
+msgstr ""
+
+#: src/core/routes/widgets/preview-badge/_text.vue:7
+msgid "Star rating text (no reviews)"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:32
+msgid "Stars and average rating"
+msgstr ""
+
+#: src/core/routes/email_templates/sections/_custom_templates.vue:30
+#: src/core/routes/questions/main.vue:82 src/core/routes/requests/main.vue:138
+msgid "Status"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:29
+msgid ""
+"Status: Reviews feed submitted to Meta. It may take up to 2 weeks before you "
+"can see your syndicated reviews."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:40
+msgid ""
+"Status: Your reviews can’t be syndicated because Meta was unable to find "
+"your Facebook or Instagram store using the information provided."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:37
+msgid ""
+"Status: Your reviews can’t be syndicated because your store doesn’t meet the "
+"eligibility criteria. <a class=\"meta-settings-links\" target=\"_blank\" "
+"href=\"https://www.facebook.com/business/help/1283583025724685\">Learn more "
+"here.</a>"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/main.vue:67
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:46
+#: src/core/routes/widgets/medals/main.vue:38
+#: src/core/routes/widgets/preview-badge/main.vue:56
 #: src/core/routes/widgets/review-widget/main.vue:51
+#: src/core/routes/widgets/reviews-carousel/main.vue:45
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:52
 msgid "Step 1: Enable app embed"
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/main.vue:79
+#: src/core/routes/widgets/floating-reviews-tab/main.vue:57
+#: src/core/routes/widgets/medals/main.vue:49
+#: src/core/routes/widgets/preview-badge/main.vue:67
 #: src/core/routes/widgets/review-widget/main.vue:62
+#: src/core/routes/widgets/reviews-carousel/main.vue:56
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:63
 msgid "Step 2: Add the widget block"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_display_properties.vue:2
 msgid "Store and reviewer details"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_branding.vue:6
+msgid "Store logo"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_store_reviews.vue:2
+#: src/core/routes/widgets/floating-reviews-tab/_store_reviews.vue:2
+msgid "Store reviews"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:62
+msgid "Store Reviews"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_store_reviews.vue:40
+#: src/core/routes/widgets/floating-reviews-tab/_store_reviews.vue:41
+msgid "Store reviews first"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:7
+#: src/core/routes/general_settings/advanced/section/_platform_independent_widget.vue:9
+msgid "Store script."
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:26
+msgid "Subject"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:20
+msgid "Submit button"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:69
@@ -684,6 +3745,19 @@ msgstr ""
 msgid "Submit button label (verified)"
 msgstr ""
 
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:30
+msgid "Submit success message"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_store_reviews.vue:4
+#: src/core/routes/widgets/floating-reviews-tab/_store_reviews.vue:4
+msgid "Subtab order"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/text/_widget.vue:3
+msgid "Subtabs"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_form.vue:83
 msgid "Success message (Autopublish off)"
 msgstr ""
@@ -692,17 +3766,157 @@ msgstr ""
 msgid "Success message (Autopublish on)"
 msgstr ""
 
+#: src/core/routes/index/cell/_customer.vue:70
+msgid "Sure"
+msgstr ""
+
+#: src/core/routes/index/cell/_customer.vue:18
+msgid "Sure?"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:2
+msgid "Sync customers with Shopify"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:43
+msgid "Syndicate reviews collected via the Shop app to Judge.me (Recommended)"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_text.vue:7
+msgid "Tab name"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:3
+msgid "Tab style"
+msgstr ""
+
+#: src/core/routes/widgets/floating-reviews-tab/_text.vue:11
+msgid "Tab title"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:9
+msgid "Tag blocklist"
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_delete_template_confirm_modal.vue:34
+msgid "Template deleted"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:25
+msgid "Template: Review reminder email"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:50
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:7
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:9
+#: src/core/routes/widgets/floating-reviews-tab/_text.vue:2
+#: src/core/routes/widgets/preview-badge/_text.vue:2
+#: src/core/routes/widgets/question-and-answers/_text.vue:2
 #: src/core/routes/widgets/review-widget/_text.vue:2
 #: src/core/routes/widgets/review-widget/text/main.vue:46
+#: src/core/routes/widgets/reviews-carousel/_header.vue:12
 msgid "Text"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:23
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:21
+#: src/core/routes/widgets/medals/_color.vue:40
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:21
+msgid "Text color"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:11
 msgid "Text header"
 msgstr ""
 
+#: src/core/routes/widgets/all-reviews-counter/_theme.vue:30
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:33
+msgid "Text only"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:56
+msgid "The feed will be updated daily."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_integrations.vue:4
+msgid ""
+"The following snippet apps automatically integrate with Judge.me review "
+"snippets."
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:11
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:12
+msgid "The notification will display a shortened URL using your store domain."
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:41
+msgid "The public reply of the review"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:22
+msgid "The Q&A Feature badge will show beneath the Star Rating Badge"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_badge_settings.vue:27
+msgid "The Q&A Feature badge will show next to the Star Rating Badge"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:146
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:50
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:78
+msgid "The review coupon is only valid for orders of at least this value."
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:42
+msgid ""
+"The URLs of images associated with the review (separated by commas), e.g. "
+"https://picture1.jpg"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_theme.vue:2
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:2
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:2
 #: src/core/routes/widgets/review-widget/_theme.vue:2
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:2
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:2
 msgid "Theme"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:6
+msgid "These will include the star rating and number of reviews."
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:11
+#: src/core/routes/questions/modal/_answer_question.vue:13
+msgid ""
+"This answer will appear in the Review Widget. We'll also notify the asker "
+"via email."
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:119
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:356
+msgid ""
+"This applies for orders with more than one item and for automatic reminders "
+"(if enabled)."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:12
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:13
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:16
+msgid "This badge will only show if you’re using widgets in English."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:59
+msgid "This coupon expires after"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:58
+msgid "This coupon never expires"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:18
+#: src/core/routes/general_settings/advanced/section/_cross_store_syndication.vue:22
+msgid "This group token"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_theme.vue:7
@@ -711,6 +3925,48 @@ msgid ""
 "This theme will also show for the All Reviews Page and Floating Reviews Tab."
 msgstr ""
 "This theme will also show for the All Reviews Page and Floating Reviews Tab."
+
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:10
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:11
+#: src/core/routes/widgets/floating-reviews-tab/_theme.vue:12
+#, fuzzy
+msgid "This theme will also show for the Reviews Widget and All Reviews Page."
+msgstr ""
+"This theme will also show for the All Reviews Page and Floating Reviews Tab."
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:7
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:8
+#, fuzzy
+msgid "This theme will show for the Review Widget and Floating Reviews Tab."
+msgstr ""
+"This theme will also show for the All Reviews Page and Floating Reviews Tab."
+
+#: src/core/routes/widgets/question-and-answers/_install.vue:18
+msgid ""
+"This will appear after the Star Rating Badge. It will only show if you have "
+"installed the Star Rating Badge"
+msgstr ""
+
+#: src/core/routes/widgets/question-and-answers/_install.vue:7
+msgid "This will appear in the Review Widget on product pages"
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_branding.vue:4
+msgid "This will be used in email templates."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:20
+msgid "This will include the same SKU value in Shopify admin"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:12
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:13
+msgid "Timing of requests and reminders can be set in"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:33
+msgid "Title"
+msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_form.vue:37
 msgid "Title field"
@@ -724,14 +3980,135 @@ msgstr ""
 msgid "Title field placeholder"
 msgstr ""
 
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:5
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:7
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:8
+msgid "to"
+msgstr ""
+
+#: src/core/routes/home/_top_products.vue:3
+msgid "Top products"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:117
+msgid "Total number of orders generated by Judge.me as a referrer."
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:115
+msgid "Total revenue generated by Judge.me (in USD) as a referrer."
+msgstr ""
+
+#: src/core/routes/requests/_empty_history.vue:11
+msgid "Track automatic review requests here"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:66
+msgid "Transparency"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:52
+#: src/core/routes/home/_shop_statistics.vue:56
+msgid ""
+"Transparency score measures how many verified reviews are published. "
+"Authenticity score measures how many published reviews are verified."
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:60
+msgid "Trust scores"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_early_user_program.vue:8
+msgid ""
+"Try new features before their public release. We'll let you know whenever a "
+"new feature is ready for beta testing."
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:87
+msgid "Unarchive"
+msgstr ""
+
+#: src/core/routes/index/cell/_status.vue:121
+msgid "unarchived"
+msgstr ""
+
+#: src/core/routes/import/cell/_review_field.vue:39
+msgid "Unique product identifier"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:2
+msgid "Unsubscribed emails"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:36
+msgid "Up to 15 (5-star) reviews will be shown."
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:23
+msgid "update to widgets 3.0"
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:12
+msgid "Update to Widgets 3.0"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_email_tone_of_voice.vue:16
+msgid "Update tone of voice"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/modal/_restore_settings.vue:6
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:4
+msgid "Upload"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:31
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:35
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:36
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:37
+msgid "Upload custom blocklist"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:4
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:5
+msgid ""
+"Upload your own file with a list of swear words or phrases. You can also"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:5
+#: src/core/routes/import/modal/_import_questions_and_answers.vue:7
+msgid ""
+"Upload your questions and answers from another Judge.me store. You can also"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:40
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:44
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:45
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:50
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:52
+msgid "Use"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_pagination.vue:50
 msgid "Use \"Load more\" button to show more reviews"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:33
+msgid "Use http for product and reviews URLs"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_advanced_settings.vue:34
+msgid "Use https for product and reviews URLs"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:41
+msgid ""
+"Use the heart button on the Reviews Dashboard to select the reviews you want "
+"to show. You need to pick at least 1 review for the Carousel to appear."
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:44
 #: src/core/routes/widgets/review-widget/_color.vue:49
 #: src/core/routes/widgets/review-widget/_color.vue:50
-msgid "Used for number pagination or “Load more” button."
+msgid "Used for number pagination or Load more button."
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_color.vue:19
@@ -749,6 +4126,12 @@ msgstr ""
 msgid "Used for the Rating Filter chart."
 msgstr ""
 
+#: src/core/routes/general_settings/branding/sections/_colors.vue:11
+msgid ""
+"Used for the star color, buttons, links and link buttons on all widgets and "
+"emails."
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_color.vue:8
 #: src/core/routes/widgets/review-widget/_color.vue:9
 msgid ""
@@ -760,6 +4143,30 @@ msgstr ""
 #: src/core/routes/widgets/review-widget/_color.vue:31
 #: src/core/routes/widgets/review-widget/_color.vue:32
 msgid "Used only for star ratings in the Review Widget."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:51
+msgid "using initials after the first name, e.g."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_review_content.vue:52
+msgid "using initials for the entire reviewer name, e.g."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals/sections/_requirement_and_elegibility.vue:21
+msgid "Validity"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:10
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:12
+#: src/core/routes/widgets/all-reviews-counter/_design.vue:13
+#: src/core/routes/widgets/preview-badge/_text.vue:13
+#: src/core/routes/widgets/preview-badge/_text.vue:15
+#: src/core/routes/widgets/preview-badge/_text.vue:16
+#: src/core/routes/widgets/question-and-answers/_text.vue:11
+#: src/core/routes/widgets/question-and-answers/_text.vue:12
+#: src/core/routes/widgets/question-and-answers/_text.vue:13
+msgid "Variables"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_body.vue:4
@@ -778,8 +4185,33 @@ msgstr ""
 msgid "Verified buyer badge text color"
 msgstr ""
 
+#: src/core/routes/widgets/verified-reviews-counter/main.vue:49
+msgid "Verified Reviews Counter"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_medals.vue:8
+msgid "Verified text after widget"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_custom_forms.vue:31
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:42
 msgid "Vertical"
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_theme.vue:40
+msgid "Vertical sliding"
+msgstr ""
+
+#: src/core/routes/index/cell/_customer.vue:14
+msgid "via"
+msgstr ""
+
+#: src/core/routes/index/cell/_media_files.vue:64
+msgid "Video hidden"
+msgstr ""
+
+#: src/core/routes/index/cell/_media_files.vue:63
+msgid "Video published"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:63
@@ -790,28 +4222,356 @@ msgstr ""
 msgid "Videos First"
 msgstr ""
 
+#: src/core/routes/import/section/_import_from_apps.vue:115
+msgid "View all apps"
+msgstr ""
+
+#: src/core/routes/home/_recent_activity.vue:46
+msgid "View all in Questions Dashboard"
+msgstr ""
+
+#: src/core/routes/home/_recent_activity.vue:39
+msgid "View all in Reviews Dashboard"
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:107
+msgid "View all reviews"
+msgstr ""
+
+#: src/core/routes/questions/main.vue:20
+msgid "View all your questions here"
+msgstr ""
+
+#: src/core/routes/requests/main.vue:123
+msgid "View customer blocklist"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_blocklists.vue:14
+#: src/core/routes/requests/blocklist/_blocklists.vue:21
+msgid "View excluded products"
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_reports.vue:4
+msgid "View full email report"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:21
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:22
+msgid "View instructions"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:5
+msgid "View integrations"
+msgstr ""
+
+#: src/core/routes/requests/sms_push/index/main.vue:19
+msgid "View Integrations"
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:9
+#: src/core/routes/home/_top_products.vue:21
+msgid "View reports"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:5
+msgid "View unsubscribed emails"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:7
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:9
+msgid ""
+"We automatically detected the date format from your import file's review "
+"date column."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:5
+msgid ""
+"We can show your reviews in Google's search results when people search for "
+"your products."
+msgstr ""
+
+#: src/core/routes/marketing_and_social/more/main.vue:23
+#: src/core/routes/marketing_and_social/more/main.vue:24
+msgid ""
+"We can show your reviews in Google's search results when people search for "
+"your products. These will include the star rating and number of reviews."
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:20
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:22
+msgid ""
+"We can tell that the formatting errors occurred on these rows in your import "
+"file:"
+msgstr ""
+
+#: src/core/routes/requests/_empty_history.vue:12
+msgid ""
+"We collect reviews automatically from your customers 2 weeks after the order "
+"has been fulfilled. You can also"
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:18
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:20
+msgid ""
+"We could not automatically detect the date format from your import file."
+msgstr ""
+
+#: src/core/routes/index/filters/main.vue:80
+msgid "We could not find any reviews"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:19
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:21
+msgid ""
+"We follow the recommended guidance from Schema.org about using microdata and "
+"JSON-LD snippets."
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:81
+msgid "We recommend using up to 25 characters."
+msgstr ""
+
+#: src/core/routes/requests/sms_push/push_notifications/main.vue:82
+msgid "We recommend using up to 30 characters."
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_sender_info.vue:50
+msgid ""
+"We recommend using your customer support email so replies from buyers are "
+"sent to that address."
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:10
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:12
+msgid "we think that its format is"
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_out_of_store_products.vue:28
+msgid ""
+"We will add this text to the product title so visitors know why no link is "
+"showing."
+msgstr ""
+
+#: src/core/routes/questions/modal/_ask_community.vue:6
+#: src/core/routes/questions/modal/_ask_community.vue:8
+msgid "We will email the buyers of the last"
+msgstr ""
+
+#: src/core/routes/questions/modal/_edit_question.vue:10
+#: src/core/routes/questions/modal/_edit_question.vue:12
+msgid "We will notify the asker via email."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_sync_customers_with_shopify.vue:11
+msgid "We will synchronize customers who leave web reviews with Shopify."
+msgstr ""
+
+#: src/core/routes/import/modal/_import_reviews.vue:14
+#: src/core/routes/import/modal/_import_reviews.vue:16
+msgid "We won't notify the reviewers of these emails."
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:16
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:17
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:18
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:21
+#: src/core/routes/manual_requests/modal/_schedule_manual_request.vue:22
+msgid "We’ll send the request after 10 minutes."
+msgstr ""
+
+#: src/core/routes/manual_requests/modal/_send_request.vue:6
+#: src/core/routes/manual_requests/modal/_send_request.vue:7
+#: src/core/routes/manual_requests/modal/_send_request.vue:8
+#: src/core/routes/manual_requests/modal/_send_request.vue:9
+msgid ""
+"We’ll skip requests for unfulfilled or already processed orders. We’ll send "
+"you a summary of requests sent via email. Please note you can only send up "
+"to 5000 requests at once."
+msgstr ""
+
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:5
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:7
+#: src/core/routes/requests/modal/_cancel_unsent_requests.vue:8
+msgid "We’ll skip requests from"
+msgstr ""
+
+#: src/core/routes/requests/moderation/sections/_review_restriction.vue:3
+msgid "Web reviews"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_text.vue:21
 msgid "Widget Body"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget.vue:27
+msgid "Widget body text"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/_text.vue:22
 msgid "Widget Form"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_referrals_widget.vue:21
+msgid "Widget heading text"
+msgstr ""
+
+#: src/core/routes/widgets/verified-reviews-counter/_theme.vue:4
+msgid "Widget style"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-counter/_color.vue:4
+#: src/core/routes/widgets/floating-reviews-tab/_color.vue:4
 #: src/core/routes/widgets/review-widget/_theme.vue:9
+#: src/core/routes/widgets/verified-reviews-counter/_color.vue:4
 msgid "Widget theme"
+msgstr ""
+
+#: src/core/routes/widgets/all-reviews-page/_theme.vue:3
+msgid "Widget Theme"
 msgstr ""
 
 #: src/core/routes/widgets/review-widget/text/_heading.vue:29
 msgid "Widget title"
 msgstr ""
 
+#: src/core/routes/general_settings/advanced/section/_shop_app_syndication.vue:6
+msgid ""
+"will appear automatically on your Shop and Shopify stores. Store eligibility "
+"is subject to merchant requirements and restrictions."
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/text/_heading.vue:33
 msgid "Write button label"
 msgstr ""
 
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:7
+#: src/core/routes/marketing_and_social/google_shopping/sections/_google_product_review_feed.vue:8
+msgid "XML URL: "
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:50
+msgid "You are importing reviews from"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:20
+#: src/core/routes/marketing_and_social/seo_rich_snippets/sections/_seo_rich_snippets.vue:22
+msgid "You can also preview your rich results in Google Rich Results Test."
+msgstr ""
+
+#: src/core/routes/general_settings/branding/sections/_colors.vue:10
+#: src/core/routes/general_settings/branding/sections/_colors.vue:8
+#: src/core/routes/widgets/preview-badge/_color.vue:11
+#: src/core/routes/widgets/preview-badge/_color.vue:8
+#: src/core/routes/widgets/reviews-carousel/_color.vue:34
+#: src/core/routes/widgets/reviews-carousel/_color.vue:43
+msgid "You can change the primary star color in"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:12
+#: src/core/routes/marketing_and_social/referrals_widget/sections/_friend_reward_page.vue:13
+msgid "You can change the store logo in"
+msgstr ""
+
 #: src/core/routes/widgets/review-widget/_formatting.vue:17
 msgid "You can click 'Read more' to see the rest of the review"
+msgstr ""
+
+#: src/core/routes/marketing_and_social/more/main.vue:7
+msgid ""
+"You can display aggregated reviews for your products in ads and free product "
+"listings on Google Shopping. We'll create a feed you can submit in your "
+"Merchant Center account. Learn more about"
+msgstr ""
+
+#: src/core/routes/requests/automatic-requests/_request_timing.vue:4
+msgid ""
+"You can edit the list of domestic countries by editing the shipping zones in "
+"Shopify."
+msgstr ""
+
+#: src/core/routes/general_settings/advanced/section/_meta_syndication.vue:5
+msgid ""
+"You can syndicate reviews collected with Judge.me to your Facebook or "
+"Instagram store using Checkout on Facebook. This is currently available to "
+"US merchants only."
+msgstr ""
+
+#: src/core/routes/general_settings/notifications/section/_admin_notifications.vue:126
+msgid ""
+"You can use an alternative address, such as your customer support email."
+msgstr ""
+
+#: src/core/routes/email_templates/modal/_cannot_delete_template_modal.vue:3
+#: src/core/routes/email_templates/modal/_cannot_delete_template_modal.vue:8
+msgid ""
+"You can't delete your active template. Please create a new template before "
+"deleting it."
+msgstr ""
+
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:4
+#: src/core/routes/import/modal/_import_wizard_confirmation.vue:6
+msgid ""
+"You did not select a column that corresponds to the review date. This means "
+"we will assign today's date to all your reviews. If you are sure that is "
+"what you want, proceed with the import."
+msgstr ""
+
+#: src/core/routes/questions/main.vue:8
+msgid ""
+"You don’t have any questions yet. You can import your existing questions "
+"from other apps."
+msgstr ""
+
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:11
+#: src/core/routes/widgets/reviews-carousel/_review_curation.vue:12
+msgid "You have"
+msgstr ""
+
+#: src/core/routes/index/cell/_customer.vue:23
+#: src/core/routes/index/cell/_customer.vue:26
+msgid ""
+"You have auto-feature turned on so we will automatically feature up to 15 of "
+"the newest 5 star reviews."
+msgstr ""
+
+#: src/core/routes/import/section/_import_log.vue:57
+msgid "You have not imported any reviews yet"
+msgstr ""
+
+#: src/core/routes/requests/blocklist/_unsubscribed_emails.vue:4
+msgid ""
+"You won't send review requests to customers who've unsubscribed from Judge."
+"me emails."
+msgstr ""
+
+#: src/core/routes/general_settings/account/sections/_installation.vue:9
+msgid ""
+"You're using an older version of widgets. Switch to Widgets 3.0 and try the "
+"new Slider theme, review pinning, medals, and additional styling features."
+msgstr ""
+
+#: src/core/routes/index/cell/_rating.vue:24
+msgid "Your"
+msgstr ""
+
+#: src/core/routes/questions/modal/_answer_question.vue:12
+msgid "Your answer"
+msgstr ""
+
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:21
+#: src/core/routes/requests/moderation/modal/_upload_custom_blocklist.vue:22
+msgid "Your custom blocklist has been uploaded."
+msgstr ""
+
+#: src/core/routes/requests/emails/sections/_campaigns.vue:19
+msgid ""
+"Your customers are asked at checkout about receiving promotional emails. You "
+"can change this setting in your Shopify admin: Settings > Checkout > Email "
+"marketing."
+msgstr ""
+
+#: src/core/routes/home/_shop_statistics.vue:5
+msgid "Your review insights"
 msgstr ""
 
 #: src/core/routes/widgets/common/_install.vue:34
